@@ -64,7 +64,7 @@ mobs:spawn({
 	max_light = 7,
 	chance = 7000,
 	active_object_count = 1,
-	max_height = -70,
+	max_height = -500,
 })
 
 mobs:register_egg("mobs_monster:dungeon_master", S("Dungeon Master"), "fire_basic_flame.png", 1, true)
